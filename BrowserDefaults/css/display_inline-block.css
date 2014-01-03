@@ -1,0 +1,14 @@
+@charset "utf-8";
+
+#target {
+	display: inline-block;
+}
+
+#results {
+	position: fixed;
+	top: 1em;
+	right: 1em;
+
+	border: 1px solid #000;
+	padding: 1em;
+}
